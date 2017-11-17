@@ -1,3 +1,5 @@
+Created using a tutorial from David Chua
+
 # pymessenger [![Build Status](https://travis-ci.org/davidchua/pymessenger.svg?branch=master)](https://travis-ci.org/davidchua/pymessenger)
 
 Python Wrapper for [Facebook Messenger Platform](https://developers.facebook.com/docs/messenger-platform).
